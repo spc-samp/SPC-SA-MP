@@ -1,0 +1,2046 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:04] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:20] filterscripts = ""  (string)
+[19:23:20] 
+[19:23:20] Server Plugins
+[19:23:20] --------------
+[19:23:20]  Loaded 0 plugins.
+
+[19:23:20] 
+[19:23:20] Filterscripts
+[19:23:20] ---------------
+[19:23:20]   Loaded 0 filterscripts.
+
+[19:23:20] |---------------------------------------------------|
+[19:23:20] |         Include g_sqlite por Galarc_Hale          |
+[19:23:20] |             carregada com sucesso                 |
+[19:23:20] |---------------------------------------------------|
+[19:23:22] tempo das consultas g_sqlite: 1224
+[19:23:22] 
+----------------------------------
+[19:23:22]  SPC GameMode SA-MP
+[19:23:22] ----------------------------------
+
+[19:23:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:28] filterscripts = ""  (string)
+[19:23:28] 
+[19:23:28] Server Plugins
+[19:23:28] --------------
+[19:23:28]  Loaded 0 plugins.
+
+[19:23:28] 
+[19:23:28] Filterscripts
+[19:23:28] ---------------
+[19:23:28]   Loaded 0 filterscripts.
+
+[19:23:28] |---------------------------------------------------|
+[19:23:28] |         Include g_sqlite por Galarc_Hale          |
+[19:23:28] |             carregada com sucesso                 |
+[19:23:28] |---------------------------------------------------|
+[19:23:28] tempo das consultas g_sqlite: 521
+[19:23:28] 
+----------------------------------
+[19:23:28]  SPC GameMode SA-MP
+[19:23:28] ----------------------------------
+
+[19:23:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:28] filterscripts = ""  (string)
+[19:25:28] 
+[19:25:28] Server Plugins
+[19:25:28] --------------
+[19:25:28]  Loaded 0 plugins.
+
+[19:25:28] 
+[19:25:28] Filterscripts
+[19:25:28] ---------------
+[19:25:28]   Loaded 0 filterscripts.
+
+[19:25:28] |---------------------------------------------------|
+[19:25:28] |         Include g_sqlite por Galarc_Hale          |
+[19:25:28] |             carregada com sucesso                 |
+[19:25:28] |---------------------------------------------------|
+[19:25:29] tempo das consultas g_sqlite: 513
+[19:25:29] tempo das consultas dof2: 1
+[19:25:29] 
+----------------------------------
+[19:25:29]  SPC GameMode SA-MP
+[19:25:29] ----------------------------------
+
+[19:25:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:54] filterscripts = ""  (string)
+[19:25:54] 
+[19:25:54] Server Plugins
+[19:25:54] --------------
+[19:25:54]  Loaded 0 plugins.
+
+[19:25:54] 
+[19:25:54] Filterscripts
+[19:25:54] ---------------
+[19:25:54]   Loaded 0 filterscripts.
+
+[19:25:54] |---------------------------------------------------|
+[19:25:54] |         Include g_sqlite por Galarc_Hale          |
+[19:25:54] |             carregada com sucesso                 |
+[19:25:54] |---------------------------------------------------|
+[19:25:55] tempo das consultas g_sqlite: 1166
+[19:25:55] tempo das consultas dof2: 1
+[19:25:55] 
+----------------------------------
+[19:25:55]  SPC GameMode SA-MP
+[19:25:55] ----------------------------------
+
+[19:25:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:20:14] filterscripts = ""  (string)
+[21:20:14] 
+[21:20:14] Server Plugins
+[21:20:14] --------------
+[21:20:14]  Loaded 0 plugins.
+
+[21:20:14] 
+[21:20:14] Filterscripts
+[21:20:14] ---------------
+[21:20:14]   Loaded 0 filterscripts.
+
+[21:20:14] string e 0.000000
+[21:20:14] 
+----------------------------------
+[21:20:14]  SPC GameMode SA-MP
+[21:20:14] ----------------------------------
+
+[21:20:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:20:34] filterscripts = ""  (string)
+[21:20:34] 
+[21:20:34] Server Plugins
+[21:20:34] --------------
+[21:20:34]  Loaded 0 plugins.
+
+[21:20:34] 
+[21:20:34] Filterscripts
+[21:20:34] ---------------
+[21:20:34]   Loaded 0 filterscripts.
+
+[21:20:34] string e 0
+[21:20:34] 
+----------------------------------
+[21:20:34]  SPC GameMode SA-MP
+[21:20:34] ----------------------------------
+
+[21:20:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:58:14] filterscripts = ""  (string)
+[23:58:15] 
+[23:58:15] Server Plugins
+[23:58:15] --------------
+[23:58:15]  Loaded 0 plugins.
+
+[23:58:15] 
+[23:58:15] Filterscripts
+[23:58:15] ---------------
+[23:58:15]   Loaded 0 filterscripts.
+
+[23:58:15] |---------------------------------------------------|
+[23:58:15] |         Include g_sqlite por Galarc_Hale          |
+[23:58:15] |             carregada com sucesso                 |
+[23:58:15] |---------------------------------------------------|
+[23:58:15] SELECT * FROM  
+[23:58:15] CREATE TABLE 
+[23:58:15] INSERT INTO 
+[23:58:15] SELECT  %s` FROM  
+[23:58:15] ALTER TABLE %s ADD COLUMN  %s'- 
+[23:58:15] SELECT  %s` FROM  %s` WHERE %s =  
+[23:58:15] 
+----------------------------------
+[23:58:15]  SPC GameMode SA-MP
+[23:58:15] ----------------------------------
+
+[23:58:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:58:31] filterscripts = ""  (string)
+[23:58:31] 
+[23:58:31] Server Plugins
+[23:58:31] --------------
+[23:58:31]  Loaded 0 plugins.
+
+[23:58:31] 
+[23:58:31] Filterscripts
+[23:58:31] ---------------
+[23:58:31]   Loaded 0 filterscripts.
+
+[23:58:31] |---------------------------------------------------|
+[23:58:31] |         Include g_sqlite por Galarc_Hale          |
+[23:58:31] |             carregada com sucesso                 |
+[23:58:31] |---------------------------------------------------|
+[23:58:31] SELECT * FROM  
+[23:58:31] CREATE TABLE 
+[23:58:31] INSERT INTO 
+[23:58:31] SELECT  %s` FROM  
+[23:58:31] ALTER TABLE %s ADD COLUMN  %s'- 
+[23:58:31] SELECT  %s` FROM  %s` WHERE %s =  
+[23:58:31] 
+----------------------------------
+[23:58:31]  SPC GameMode SA-MP
+[23:58:31] ----------------------------------
+
+[23:58:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:58:49] filterscripts = ""  (string)
+[23:58:49] 
+[23:58:49] Server Plugins
+[23:58:49] --------------
+[23:58:49]  Loaded 0 plugins.
+
+[23:58:49] 
+[23:58:49] Filterscripts
+[23:58:49] ---------------
+[23:58:49]   Loaded 0 filterscripts.
+
+[23:58:49] |---------------------------------------------------|
+[23:58:49] |         Include g_sqlite por Galarc_Hale          |
+[23:58:49] |             carregada com sucesso                 |
+[23:58:49] |---------------------------------------------------|
+[23:58:49] SELECT * FROM  
+[23:58:49] CREATE TABLE 
+[23:58:49] INSERT INTO 
+[23:58:49] SELECT  %s` FROM  
+[23:58:49] ALTER TABLE %s ADD COLUMN  %s'- 
+[23:58:49] SELECT  %s` FROM  %s` WHERE %s =  
+[23:58:49] 
+----------------------------------
+[23:58:49]  SPC GameMode SA-MP
+[23:58:49] ----------------------------------
+
+[23:58:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:58:54] filterscripts = ""  (string)
+[23:58:54] 
+[23:58:54] Server Plugins
+[23:58:54] --------------
+[23:58:54]  Loaded 0 plugins.
+
+[23:58:54] 
+[23:58:54] Filterscripts
+[23:58:54] ---------------
+[23:58:54]   Loaded 0 filterscripts.
+
+[23:58:54] |---------------------------------------------------|
+[23:58:54] |         Include g_sqlite por Galarc_Hale          |
+[23:58:54] |             carregada com sucesso                 |
+[23:58:54] |---------------------------------------------------|
+[23:58:54] SELECT * FROM  
+[23:58:54] CREATE TABLE 
+[23:58:54] INSERT INTO 
+[23:58:54] SELECT  %s` FROM  
+[23:58:54] ALTER TABLE %s ADD COLUMN  %s'- 
+[23:58:54] SELECT  %s` FROM  %s` WHERE %s =  
+[23:58:54] 
+----------------------------------
+[23:58:54]  SPC GameMode SA-MP
+[23:58:54] ----------------------------------
+
+[23:58:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:08] filterscripts = ""  (string)
+[23:59:08] 
+[23:59:08] Server Plugins
+[23:59:08] --------------
+[23:59:08]  Loaded 0 plugins.
+
+[23:59:08] 
+[23:59:08] Filterscripts
+[23:59:08] ---------------
+[23:59:08]   Loaded 0 filterscripts.
+
+[23:59:08] |---------------------------------------------------|
+[23:59:08] |         Include g_sqlite por Galarc_Hale          |
+[23:59:08] |             carregada com sucesso                 |
+[23:59:08] |---------------------------------------------------|
+[23:59:08] SELECT * FROM  
+[23:59:08] CREATE TABLE 
+[23:59:08] INSERT INTO 
+[23:59:08] SELECT  %s` FROM  
+[23:59:08] ALTER TABLE %s ADD COLUMN  %s'- 
+[23:59:08] SELECT  %s` FROM  %s` WHERE %s =  
+[23:59:08] 
+----------------------------------
+[23:59:08]  SPC GameMode SA-MP
+[23:59:08] ----------------------------------
+
+[23:59:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:54] filterscripts = ""  (string)
+[23:59:54] 
+[23:59:54] Server Plugins
+[23:59:54] --------------
+[23:59:54]  Loaded 0 plugins.
+
+[23:59:54] 
+[23:59:54] Filterscripts
+[23:59:54] ---------------
+[23:59:54]   Loaded 0 filterscripts.
+
+[23:59:54] |---------------------------------------------------|
+[23:59:54] |         Include g_sqlite por Galarc_Hale          |
+[23:59:54] |             carregada com sucesso                 |
+[23:59:54] |---------------------------------------------------|
+[23:59:54] SELECT * FROM ` 
+[23:59:54] CREATE TABLE  
+[23:59:54] INSERT INTO  
+[23:59:54] SELECT ` %s` FROM ` 
+[23:59:54] ALTER TABLE  %s ADD COLUMN ' %s' - 
+[23:59:54] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[23:59:54] 
+----------------------------------
+[23:59:54]  SPC GameMode SA-MP
+[23:59:54] ----------------------------------
+
+[23:59:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:21] filterscripts = ""  (string)
+[00:00:21] 
+[00:00:21] Server Plugins
+[00:00:21] --------------
+[00:00:21]  Loaded 0 plugins.
+
+[00:00:21] 
+[00:00:21] Filterscripts
+[00:00:21] ---------------
+[00:00:21]   Loaded 0 filterscripts.
+
+[00:00:21] |---------------------------------------------------|
+[00:00:21] |         Include g_sqlite por Galarc_Hale          |
+[00:00:21] |             carregada com sucesso                 |
+[00:00:21] |---------------------------------------------------|
+[00:00:21] SELECT * FROM ` 
+[00:00:21] CREATE TABLE  
+[00:00:21] INSERT INTO  
+[00:00:21] SELECT ` %s` FROM ` 
+[00:00:21] ALTER TABLE  %s ADD COLUMN ' %s' - 
+[00:00:21] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:00:21] 
+----------------------------------
+[00:00:21]  SPC GameMode SA-MP
+[00:00:21] ----------------------------------
+
+[00:00:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:30] filterscripts = ""  (string)
+[00:01:30] 
+[00:01:30] Server Plugins
+[00:01:30] --------------
+[00:01:30]  Loaded 0 plugins.
+
+[00:01:30] 
+[00:01:30] Filterscripts
+[00:01:30] ---------------
+[00:01:30]   Loaded 0 filterscripts.
+
+[00:01:30] |---------------------------------------------------|
+[00:01:30] |         Include g_sqlite por Galarc_Hale          |
+[00:01:30] |             carregada com sucesso                 |
+[00:01:30] |---------------------------------------------------|
+[00:01:30]  
+[00:01:30] SELECT * FROM ` 
+[00:01:30]  
+[00:01:30] CREATE TABLE  
+[00:01:30]  
+[00:01:30] INSERT INTO  
+[00:01:30]  
+[00:01:30]  
+[00:01:30] SELECT ` %s` FROM ` 
+[00:01:30]  
+[00:01:30]  
+[00:01:30] - 
+[00:01:30] ALTER TABLE  %s ADD COLUMN ' %s' - 
+[00:01:30]  
+[00:01:30]  
+[00:01:30]  
+[00:01:30]  
+[00:01:30] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:01:30] 
+----------------------------------
+[00:01:30]  SPC GameMode SA-MP
+[00:01:30] ----------------------------------
+
+[00:01:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:54] filterscripts = ""  (string)
+[00:01:54] 
+[00:01:54] Server Plugins
+[00:01:54] --------------
+[00:01:54]  Loaded 0 plugins.
+
+[00:01:54] 
+[00:01:54] Filterscripts
+[00:01:54] ---------------
+[00:01:54]   Loaded 0 filterscripts.
+
+[00:01:54] |---------------------------------------------------|
+[00:01:54] |         Include g_sqlite por Galarc_Hale          |
+[00:01:54] |             carregada com sucesso                 |
+[00:01:54] |---------------------------------------------------|
+[00:01:54]  
+[00:01:54] SELECT * FROM ` 
+[00:01:54]  
+[00:01:54] CREATE TABLE  
+[00:01:54]  
+[00:01:54] INSERT INTO  
+[00:01:54]  
+[00:01:54]  
+[00:01:54] SELECT ` %s` FROM ` 
+[00:01:54]  
+[00:01:54]  
+[00:01:54]  
+[00:01:54] ALTER TABLE  %s ADD COLUMN ' %s'  
+[00:01:54]  
+[00:01:54]  
+[00:01:54]  
+[00:01:54]  
+[00:01:54] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:01:54] 
+----------------------------------
+[00:01:54]  SPC GameMode SA-MP
+[00:01:54] ----------------------------------
+
+[00:01:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:02:20] filterscripts = ""  (string)
+[00:02:20] 
+[00:02:20] Server Plugins
+[00:02:20] --------------
+[00:02:20]  Loaded 0 plugins.
+
+[00:02:20] 
+[00:02:20] Filterscripts
+[00:02:20] ---------------
+[00:02:20]   Loaded 0 filterscripts.
+
+[00:02:20] |---------------------------------------------------|
+[00:02:20] |         Include g_sqlite por Galarc_Hale          |
+[00:02:20] |             carregada com sucesso                 |
+[00:02:20] |---------------------------------------------------|
+[00:02:20] ÿ 
+[00:02:20] SELECT * FROM `ÿ 
+[00:02:20]  
+[00:02:20] CREATE TABLE  
+[00:02:20]  
+[00:02:20] INSERT INTO  
+[00:02:20]  
+[00:02:20]  
+[00:02:20] SELECT ` %s` FROM ` 
+[00:02:20]  
+[00:02:20]  
+[00:02:20]  
+[00:02:20] ALTER TABLE  %s ADD COLUMN ' %s'  
+[00:02:20]  
+[00:02:20]  
+[00:02:20]  
+[00:02:20]  
+[00:02:20] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:02:20] 
+----------------------------------
+[00:02:20]  SPC GameMode SA-MP
+[00:02:20] ----------------------------------
+
+[00:02:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:02:35] filterscripts = ""  (string)
+[00:02:35] 
+[00:02:35] Server Plugins
+[00:02:35] --------------
+[00:02:35]  Loaded 0 plugins.
+
+[00:02:35] 
+[00:02:35] Filterscripts
+[00:02:35] ---------------
+[00:02:35]   Loaded 0 filterscripts.
+
+[00:02:35] |---------------------------------------------------|
+[00:02:35] |         Include g_sqlite por Galarc_Hale          |
+[00:02:35] |             carregada com sucesso                 |
+[00:02:35] |---------------------------------------------------|
+[00:02:35] B 
+[00:02:35] SELECT * FROM `B 
+[00:02:35] S 
+[00:02:35] CREATE TABLE S 
+[00:02:35] u 
+[00:02:35] INSERT INTO u 
+[00:02:35] F 
+[00:02:35] F 
+[00:02:35] SELECT `F %s` FROM `F 
+[00:02:35] - 
+[00:02:35] - 
+[00:02:35] - 
+[00:02:35] ALTER TABLE - %s ADD COLUMN '- %s' - 
+[00:02:35] s 
+[00:02:35] s 
+[00:02:35] s 
+[00:02:35] s 
+[00:02:35] SELECT `s %s` FROM `s %s` WHERE s %s = 's 
+[00:02:35] 
+----------------------------------
+[00:02:35]  SPC GameMode SA-MP
+[00:02:35] ----------------------------------
+
+[00:02:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:04:53] filterscripts = ""  (string)
+[00:04:53] 
+[00:04:53] Server Plugins
+[00:04:53] --------------
+[00:04:53]  Loaded 0 plugins.
+
+[00:04:53] 
+[00:04:53] Filterscripts
+[00:04:53] ---------------
+[00:04:53]   Loaded 0 filterscripts.
+
+[00:04:53] |---------------------------------------------------|
+[00:04:53] |         Include g_sqlite por Galarc_Hale          |
+[00:04:53] |             carregada com sucesso                 |
+[00:04:53] |---------------------------------------------------|
+[00:04:53]  
+[00:04:53] SELECT * FROM ` 
+[00:04:53]  
+[00:04:53] CREATE TABLE  
+[00:04:53]  
+[00:04:53] INSERT INTO  
+[00:04:53]  
+[00:04:53]  
+[00:04:53] SELECT ` %s` FROM ` 
+[00:04:53]  
+[00:04:53]  
+[00:04:53]  
+[00:04:53] ALTER TABLE  %s ADD COLUMN ' %s'  
+[00:04:53]  
+[00:04:53]  
+[00:04:53]  
+[00:04:53]  
+[00:04:53] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:04:53] 
+----------------------------------
+[00:04:53]  SPC GameMode SA-MP
+[00:04:53] ----------------------------------
+
+[00:04:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:06] filterscripts = ""  (string)
+[00:05:06] 
+[00:05:06] Server Plugins
+[00:05:06] --------------
+[00:05:06]  Loaded 0 plugins.
+
+[00:05:06] 
+[00:05:06] Filterscripts
+[00:05:06] ---------------
+[00:05:06]   Loaded 0 filterscripts.
+
+[00:05:06] |---------------------------------------------------|
+[00:05:06] |         Include g_sqlite por Galarc_Hale          |
+[00:05:06] |             carregada com sucesso                 |
+[00:05:06] |---------------------------------------------------|
+[00:05:06] B 
+[00:05:06] SELECT * FROM `B 
+[00:05:06] S 
+[00:05:06] CREATE TABLE S 
+[00:05:06] u 
+[00:05:06] INSERT INTO u 
+[00:05:06] F 
+[00:05:06] F 
+[00:05:06] SELECT `F %s` FROM `F 
+[00:05:06] - 
+[00:05:06] - 
+[00:05:06] - 
+[00:05:06] ALTER TABLE - %s ADD COLUMN '- %s' - 
+[00:05:06] s 
+[00:05:06] s 
+[00:05:06] s 
+[00:05:06] s 
+[00:05:06] SELECT `s %s` FROM `s %s` WHERE s %s = 's 
+[00:05:06] 
+----------------------------------
+[00:05:06]  SPC GameMode SA-MP
+[00:05:06] ----------------------------------
+
+[00:05:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:14] filterscripts = ""  (string)
+[00:05:14] 
+[00:05:14] Server Plugins
+[00:05:14] --------------
+[00:05:14]  Loaded 0 plugins.
+
+[00:05:14] 
+[00:05:14] Filterscripts
+[00:05:14] ---------------
+[00:05:14]   Loaded 0 filterscripts.
+
+[00:05:14] |---------------------------------------------------|
+[00:05:14] |         Include g_sqlite por Galarc_Hale          |
+[00:05:14] |             carregada com sucesso                 |
+[00:05:14] |---------------------------------------------------|
+[00:05:14] ÿ 
+[00:05:14] SELECT * FROM `ÿ 
+[00:05:14]  
+[00:05:14] CREATE TABLE  
+[00:05:14]  
+[00:05:14] INSERT INTO  
+[00:05:14]  
+[00:05:14]  
+[00:05:14] SELECT ` %s` FROM ` 
+[00:05:14]  
+[00:05:14]  
+[00:05:14]  
+[00:05:14] ALTER TABLE  %s ADD COLUMN ' %s'  
+[00:05:14]  
+[00:05:14]  
+[00:05:14]  
+[00:05:14]  
+[00:05:14] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:05:14] 
+----------------------------------
+[00:05:14]  SPC GameMode SA-MP
+[00:05:14] ----------------------------------
+
+[00:05:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:23] filterscripts = ""  (string)
+[00:05:23] 
+[00:05:23] Server Plugins
+[00:05:23] --------------
+[00:05:23]  Loaded 0 plugins.
+
+[00:05:23] 
+[00:05:23] Filterscripts
+[00:05:23] ---------------
+[00:05:23]   Loaded 0 filterscripts.
+
+[00:05:23] |---------------------------------------------------|
+[00:05:23] |         Include g_sqlite por Galarc_Hale          |
+[00:05:23] |             carregada com sucesso                 |
+[00:05:23] |---------------------------------------------------|
+[00:05:23]  
+[00:05:23] SELECT * FROM ` 
+[00:05:23]  
+[00:05:23] CREATE TABLE  
+[00:05:23]  
+[00:05:23] INSERT INTO  
+[00:05:23] ÿ 
+[00:05:23] ÿ 
+[00:05:23] SELECT `ÿ %s` FROM `ÿ 
+[00:05:23] - 
+[00:05:23] - 
+[00:05:23] - 
+[00:05:23] ALTER TABLE - %s ADD COLUMN '- %s' - 
+[00:05:23]  
+[00:05:23]  
+[00:05:23]  
+[00:05:23]  
+[00:05:23] SELECT ` %s` FROM ` %s` WHERE  %s = ' 
+[00:05:23] 
+----------------------------------
+[00:05:23]  SPC GameMode SA-MP
+[00:05:23] ----------------------------------
+
+[00:05:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:29] filterscripts = ""  (string)
+[00:12:29] 
+[00:12:29] Server Plugins
+[00:12:29] --------------
+[00:12:29]  Loaded 0 plugins.
+
+[00:12:29] 
+[00:12:29] Filterscripts
+[00:12:29] ---------------
+[00:12:29]   Loaded 0 filterscripts.
+
+[00:12:29] |---------------------------------------------------|
+[00:12:29] |         Include g_sqlite por Galarc_Hale          |
+[00:12:29] |             carregada com sucesso                 |
+[00:12:29] |---------------------------------------------------|
+[00:12:29] player 
+[00:12:29] SELECT * FROM `player 
+[00:12:29] player 
+[00:12:29] CREATE TABLE player 
+[00:12:29] player 
+[00:12:29] INSERT INTO player 
+[00:12:29] level 
+[00:12:29] player 
+[00:12:29] SELECT `level %s` FROM `player 
+[00:12:29] player 
+[00:12:29] level 
+[00:12:29] INTEGER 
+[00:12:29] ALTER TABLE player %s ADD COLUMN 'level %s' INTEGER 
+[00:12:29] level 
+[00:12:29] player 
+[00:12:29] level 
+[00:12:29] 4 
+[00:12:29] SELECT `level %s` FROM `player %s` WHERE level %s = '4 
+[00:12:29] 
+----------------------------------
+[00:12:29]  SPC GameMode SA-MP
+[00:12:29] ----------------------------------
+
+[00:12:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:13:36] filterscripts = ""  (string)
+[00:13:36] 
+[00:13:36] Server Plugins
+[00:13:36] --------------
+[00:13:36]  Loaded 0 plugins.
+
+[00:13:36] 
+[00:13:36] Filterscripts
+[00:13:36] ---------------
+[00:13:36]   Loaded 0 filterscripts.
+
+[00:13:36] |---------------------------------------------------|
+[00:13:36] |         Include g_sqlite por Galarc_Hale          |
+[00:13:36] |             carregada com sucesso                 |
+[00:13:36] |---------------------------------------------------|
+[00:13:36] SELECT * FROM `player
+[00:13:36] CREATE TABLE player
+[00:13:36] INSERT INTO player
+[00:13:36] SELECT `level%s` FROM `player
+[00:13:36] ALTER TABLE player%s ADD COLUMN 'level%s' INTEGER
+[00:13:36] SELECT `level%s` FROM `player%s` WHERE level%s = '4
+[00:13:36] 
+----------------------------------
+[00:13:36]  SPC GameMode SA-MP
+[00:13:36] ----------------------------------
+
+[00:13:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:16:53] filterscripts = ""  (string)
+[00:16:53] 
+[00:16:53] Server Plugins
+[00:16:53] --------------
+[00:16:53]  Loaded 0 plugins.
+
+[00:16:53] 
+[00:16:53] Filterscripts
+[00:16:53] ---------------
+[00:16:53]   Loaded 0 filterscripts.
+
+[00:16:53] |---------------------------------------------------|
+[00:16:53] |         Include g_sqlite por Galarc_Hale          |
+[00:16:53] |             carregada com sucesso                 |
+[00:16:53] |---------------------------------------------------|
+[00:16:53] s` LIMIT 1
+[00:16:53] s(id INTEGER PRIMARY KEY AUTOINCREMENT)
+[00:16:53] s DEFAULT VALUES
+[00:16:53] s` LIMIT 1
+[00:16:53] s DEFAULT 0
+[00:16:53] s' LIMIT 1
+[00:16:53] 
+----------------------------------
+[00:16:53]  SPC GameMode SA-MP
+[00:16:53] ----------------------------------
+
+[00:16:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:32] filterscripts = ""  (string)
+[00:17:32] 
+[00:17:32] Server Plugins
+[00:17:32] --------------
+[00:17:32]  Loaded 0 plugins.
+
+[00:17:32] 
+[00:17:32] Filterscripts
+[00:17:32] ---------------
+[00:17:32]   Loaded 0 filterscripts.
+
+[00:17:32] |---------------------------------------------------|
+[00:17:32] |         Include g_sqlite por Galarc_Hale          |
+[00:17:32] |             carregada com sucesso                 |
+[00:17:32] |---------------------------------------------------|
+[00:17:32] SELECT * FROM `players` LIMIT 1
+[00:17:32] CREATE TABLE players(id INTEGER PRIMARY KEY AUTOINCREMENT)
+[00:17:32] INSERT INTO players DEFAULT VALUES
+[00:17:33] SELECT `level%s` FROM `players` LIMIT 1
+[00:17:33] ALTER TABLE player%s ADD COLUMN 'level%s' INTEGERs DEFAULT 0
+[00:17:33] SELECT `level%s` FROM `player%s` WHERE level%s = '4s' LIMIT 1
+[00:17:33] 
+----------------------------------
+[00:17:33]  SPC GameMode SA-MP
+[00:17:33] ----------------------------------
+
+[00:17:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:09] filterscripts = ""  (string)
+[00:18:09] 
+[00:18:09] Server Plugins
+[00:18:09] --------------
+[00:18:09]  Loaded 0 plugins.
+
+[00:18:09] 
+[00:18:09] Filterscripts
+[00:18:09] ---------------
+[00:18:09]   Loaded 0 filterscripts.
+
+[00:18:09] |---------------------------------------------------|
+[00:18:09] |         Include g_sqlite por Galarc_Hale          |
+[00:18:09] |             carregada com sucesso                 |
+[00:18:09] |---------------------------------------------------|
+[00:18:09] SELECT * FROM `players` LIMIT 1
+[00:18:09] SELECT `level%s` FROM `players` LIMIT 1
+[00:18:09] ALTER TABLE player%s ADD COLUMN 'level%s' INTEGERs DEFAULT 0
+[00:18:09] SELECT `level%s` FROM `player%s` WHERE level%s = '4s' LIMIT 1
+[00:18:09] 
+----------------------------------
+[00:18:09]  SPC GameMode SA-MP
+[00:18:09] ----------------------------------
+
+[00:18:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:24] filterscripts = ""  (string)
+[00:19:24] 
+[00:19:24] Server Plugins
+[00:19:24] --------------
+[00:19:24]  Loaded 0 plugins.
+
+[00:19:24] 
+[00:19:24] Filterscripts
+[00:19:24] ---------------
+[00:19:24]   Loaded 0 filterscripts.
+
+[00:19:24] |---------------------------------------------------|
+[00:19:24] |         Include g_sqlite por Galarc_Hale          |
+[00:19:24] |             carregada com sucesso                 |
+[00:19:24] |---------------------------------------------------|
+[00:19:24] SELECT * FROM `players` LIMIT 1
+[00:19:24] SELECT `level%s` FROM `players` LIMIT 1
+[00:19:24] ALTER TABLE player%s ADD COLUMN 'level%s' INTEGERs DEFAULT 0
+[00:19:24] SELECT `level%s` FROM `player%s` WHERE level%s = '4s' LIMIT 1
+[00:19:24] 
+----------------------------------
+[00:19:24]  SPC GameMode SA-MP
+[00:19:24] ----------------------------------
+
+[00:19:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:20:36] filterscripts = ""  (string)
+[02:20:36] 
+[02:20:36] Server Plugins
+[02:20:36] --------------
+[02:20:36]  Loaded 0 plugins.
+
+[02:20:36] 
+[02:20:36] Filterscripts
+[02:20:36] ---------------
+[02:20:36]   Loaded 0 filterscripts.
+
+[02:20:36] |---------------------------------------------------|
+[02:20:36] |         Include g_sqlite por Galarc_Hale          |
+[02:20:36] |             carregada com sucesso                 |
+[02:20:36] |---------------------------------------------------|
+[02:20:36] SELECT * FROM `player LIMIT 1
+[02:20:36] CREATE TABLE playerid INTEGER PRIMARY KEY AUTOINCREMENT)
+[02:20:36] INSERT INTO playerDEFAULT VALUES
+[02:20:36] SELECT `level` FROM `player LIMIT 1
+[02:20:36] ALTER TABLE player ADD COLUMN 'level' INTEGERDEFAULT 0
+[02:20:36] SELECT `level` FROM `player` WHERE level = '4 LIMIT 1
+[02:20:36] 
+----------------------------------
+[02:20:36]  SPC GameMode SA-MP
+[02:20:36] ----------------------------------
+
+[02:20:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:21:16] filterscripts = ""  (string)
+[02:21:16] 
+[02:21:16] Server Plugins
+[02:21:16] --------------
+[02:21:16]  Loaded 0 plugins.
+
+[02:21:16] 
+[02:21:16] Filterscripts
+[02:21:16] ---------------
+[02:21:16]   Loaded 0 filterscripts.
+
+[02:21:16] |---------------------------------------------------|
+[02:21:16] |         Include g_sqlite por Galarc_Hale          |
+[02:21:16] |             carregada com sucesso                 |
+[02:21:16] |---------------------------------------------------|
+[02:21:16] SELECT * FROM `player` LIMIT 1
+[02:21:16] SELECT `level` FROM `player` LIMIT 1
+[02:21:16] SELECT `level` FROM `player` WHERE level = '4' LIMIT 1
+[02:21:16] UPDATE player SET `level` = '4' WHERE `nome` = 'Galarc_Hale'
+[02:21:16] 
+----------------------------------
+[02:21:16]  SPC GameMode SA-MP
+[02:21:16] ----------------------------------
+
+[02:21:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:21:48] filterscripts = ""  (string)
+[02:21:48] 
+[02:21:48] Server Plugins
+[02:21:48] --------------
+[02:21:48]  Loaded 0 plugins.
+
+[02:21:48] 
+[02:21:48] Filterscripts
+[02:21:48] ---------------
+[02:21:48]   Loaded 0 filterscripts.
+
+[02:21:48] |---------------------------------------------------|
+[02:21:48] |         Include g_sqlite por Galarc_Hale          |
+[02:21:48] |             carregada com sucesso                 |
+[02:21:48] |---------------------------------------------------|
+[02:21:48] SELECT * FROM `player` LIMIT 1;
+[02:21:48] SELECT `level` FROM `player` LIMIT 1
+[02:21:48] SELECT `level` FROM `player` WHERE level = '4' LIMIT 1
+[02:21:48] UPDATE player SET `level` = '4' WHERE `nome` = 'Galarc_Hale'
+[02:21:48] 
+----------------------------------
+[02:21:48]  SPC GameMode SA-MP
+[02:21:48] ----------------------------------
+
+[02:21:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:24:31] filterscripts = ""  (string)
+[02:24:31] 
+[02:24:31] Server Plugins
+[02:24:31] --------------
+[02:24:31]  Loaded 0 plugins.
+
+[02:24:31] 
+[02:24:31] Filterscripts
+[02:24:31] ---------------
+[02:24:31]   Loaded 0 filterscripts.
+
+[02:24:31] |---------------------------------------------------|
+[02:24:31] |         Include g_sqlite por Galarc_Hale          |
+[02:24:31] |             carregada com sucesso                 |
+[02:24:31] |---------------------------------------------------|
+[02:24:31] SELECT * FROM `player` LIMIT 1;
+[02:24:31] SELECT `level` FROM `player` LIMIT 1;
+[02:24:31] SELECT `level` FROM `player` WHERE level = '4' LIMIT 1;
+[02:24:31] UPDATE player SET `level` = '4' WHERE `nome` = 'Galarc_Hale';
+[02:24:31] 
+----------------------------------
+[02:24:31]  SPC GameMode SA-MP
+[02:24:31] ----------------------------------
+
+[02:24:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:41:56] filterscripts = ""  (string)
+[02:41:56] 
+[02:41:56] Server Plugins
+[02:41:56] --------------
+[02:41:56]  Loaded 0 plugins.
+
+[02:41:56] 
+[02:41:56] Filterscripts
+[02:41:56] ---------------
+[02:41:56]   Loaded 0 filterscripts.
+
+[02:41:56] |---------------------------------------------------|
+[02:41:56] |         Include g_sqlite por Galarc_Hale          |
+[02:41:56] |             carregada com sucesso                 |
+[02:41:56] |---------------------------------------------------|
+[02:41:56] SELECT * FROM `player` LIMIT 1;
+[02:41:56] SELECT `level` FROM `player` LIMIT 1;
+[02:41:56] SELECT `level` FROM `player` WHERE level = '4' LIMIT 1;
+[02:41:56] UPDATE player SET `level` = '4' WHERE `nome` = 'Galarc_Hale';
+[02:41:56] tempo das consultas g_sqlite: 149
+[02:41:56] 
+----------------------------------
+[02:41:56]  SPC GameMode SA-MP
+[02:41:56] ----------------------------------
+
+[02:41:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:42:35] filterscripts = ""  (string)
+[02:42:35] 
+[02:42:35] Server Plugins
+[02:42:35] --------------
+[02:42:35]  Loaded 0 plugins.
+
+[02:42:35] 
+[02:42:35] Filterscripts
+[02:42:35] ---------------
+[02:42:35]   Loaded 0 filterscripts.
+
+[02:42:35] |---------------------------------------------------|
+[02:42:35] |         Include g_sqlite por Galarc_Hale          |
+[02:42:35] |             carregada com sucesso                 |
+[02:42:35] |---------------------------------------------------|
+[02:42:36] tempo das consultas g_sqlite: 200
+[02:42:36] 
+----------------------------------
+[02:42:36]  SPC GameMode SA-MP
+[02:42:36] ----------------------------------
+
+[02:42:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:42:41] filterscripts = ""  (string)
+[02:42:41] 
+[02:42:41] Server Plugins
+[02:42:41] --------------
+[02:42:41]  Loaded 0 plugins.
+
+[02:42:41] 
+[02:42:41] Filterscripts
+[02:42:41] ---------------
+[02:42:41]   Loaded 0 filterscripts.
+
+[02:42:41] |---------------------------------------------------|
+[02:42:41] |         Include g_sqlite por Galarc_Hale          |
+[02:42:41] |             carregada com sucesso                 |
+[02:42:41] |---------------------------------------------------|
+[02:42:41] tempo das consultas g_sqlite: 204
+[02:42:41] 
+----------------------------------
+[02:42:41]  SPC GameMode SA-MP
+[02:42:41] ----------------------------------
+
+[02:42:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:43:25] filterscripts = ""  (string)
+[02:43:25] 
+[02:43:25] Server Plugins
+[02:43:25] --------------
+[02:43:25]  Loaded 0 plugins.
+
+[02:43:25] 
+[02:43:25] Filterscripts
+[02:43:25] ---------------
+[02:43:25]   Loaded 0 filterscripts.
+
+[02:43:25] |---------------------------------------------------|
+[02:43:25] |         Include g_sqlite por Galarc_Hale          |
+[02:43:25] |             carregada com sucesso                 |
+[02:43:25] |---------------------------------------------------|
+[02:43:25] tempo das consultas g_sqlite: 0
+[02:43:25] tempo das consultas g_sqlite: 0
+[02:43:25] tempo das consultas g_sqlite: 0
+[02:43:25] tempo das consultas g_sqlite: 0
+[02:43:25] 
+----------------------------------
+[02:43:25]  SPC GameMode SA-MP
+[02:43:25] ----------------------------------
+
+[02:43:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:43:39] filterscripts = ""  (string)
+[02:43:39] 
+[02:43:39] Server Plugins
+[02:43:39] --------------
+[02:43:39]  Loaded 0 plugins.
+
+[02:43:39] 
+[02:43:39] Filterscripts
+[02:43:39] ---------------
+[02:43:39]   Loaded 0 filterscripts.
+
+[02:43:39] |---------------------------------------------------|
+[02:43:39] |         Include g_sqlite por Galarc_Hale          |
+[02:43:39] |             carregada com sucesso                 |
+[02:43:39] |---------------------------------------------------|
+[02:43:39] tempo das consultas g_sqlite: 0
+[02:43:39] tempo das consultas g_sqlite: 0
+[02:43:39] tempo das consultas g_sqlite: 0
+[02:43:39] tempo das consultas g_sqlite: 0
+[02:43:39] 
+----------------------------------
+[02:43:39]  SPC GameMode SA-MP
+[02:43:39] ----------------------------------
+
+[02:43:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:43:42] filterscripts = ""  (string)
+[02:43:42] 
+[02:43:42] Server Plugins
+[02:43:42] --------------
+[02:43:42]  Loaded 0 plugins.
+
+[02:43:42] 
+[02:43:42] Filterscripts
+[02:43:42] ---------------
+[02:43:42]   Loaded 0 filterscripts.
+
+[02:43:42] |---------------------------------------------------|
+[02:43:42] |         Include g_sqlite por Galarc_Hale          |
+[02:43:42] |             carregada com sucesso                 |
+[02:43:42] |---------------------------------------------------|
+[02:43:42] tempo das consultas g_sqlite: 0
+[02:43:42] tempo das consultas g_sqlite: 0
+[02:43:42] tempo das consultas g_sqlite: 0
+[02:43:42] tempo das consultas g_sqlite: 0
+[02:43:42] 
+----------------------------------
+[02:43:42]  SPC GameMode SA-MP
+[02:43:42] ----------------------------------
+
+[02:43:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:45:37] filterscripts = ""  (string)
+[02:45:37] 
+[02:45:37] Server Plugins
+[02:45:37] --------------
+[02:45:37]  Loaded 0 plugins.
+
+[02:45:37] 
+[02:45:37] Filterscripts
+[02:45:37] ---------------
+[02:45:37]   Loaded 0 filterscripts.
+
+[02:45:37] |---------------------------------------------------|
+[02:45:37] |         Include g_sqlite por Galarc_Hale          |
+[02:45:37] |             carregada com sucesso                 |
+[02:45:37] |---------------------------------------------------|
+[02:45:37] tempo das consultas g_sqlite: 0
+[02:45:37] tempo das consultas g_sqlite: 0
+[02:45:37] tempo das consultas g_sqlite: 0
+[02:45:37] tempo das consultas g_sqlite: 0
+[02:45:38] 
+----------------------------------
+[02:45:38]  SPC GameMode SA-MP
+[02:45:38] ----------------------------------
+
+[02:45:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:18:02] filterscripts = ""  (string)
+[12:18:02] 
+[12:18:02] Server Plugins
+[12:18:02] --------------
+[12:18:02]  Loaded 0 plugins.
+
+[12:18:02] 
+[12:18:02] Filterscripts
+[12:18:02] ---------------
+[12:18:02]   Loaded 0 filterscripts.
+
+[12:18:02] Script[gamemodes/SPC.amx]: Run time error 19: "File or function is not found"
+[12:18:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:18:22] filterscripts = ""  (string)
+[12:18:22] 
+[12:18:22] Server Plugins
+[12:18:22] --------------
+[12:18:22]  Loading plugin: bcrypt
+[12:18:22]   Failed.
+[12:18:22]  Loaded 0 plugins.
+
+[12:18:22] 
+[12:18:22] Filterscripts
+[12:18:22] ---------------
+[12:18:22]   Loaded 0 filterscripts.
+
+[12:18:22] Script[gamemodes/SPC.amx]: Run time error 19: "File or function is not found"
+[12:18:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:18:38] filterscripts = ""  (string)
+[12:18:38] 
+[12:18:38] Server Plugins
+[12:18:38] --------------
+[12:18:38]  Loading plugin: samp_bcrypt
+[12:18:38] [SampBcrypt] [info]: Version: 0.4.1
+[12:18:38]   Loaded.
+[12:18:38]  Loaded 1 plugins.
+
+[12:18:38] 
+[12:18:38] Filterscripts
+[12:18:38] ---------------
+[12:18:38]   Loaded 0 filterscripts.
+
+[12:18:38] |---------------------------------------------------|
+[12:18:38] |         Include g_sqlite por Galarc_Hale          |
+[12:18:38] |             carregada com sucesso                 |
+[12:18:38] |---------------------------------------------------|
+[12:18:38] 
+----------------------------------
+[12:18:38]  SPC GameMode SA-MP
+[12:18:38] ----------------------------------
+
+[12:18:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:19:53] filterscripts = ""  (string)
+[12:19:53] 
+[12:19:53] Server Plugins
+[12:19:53] --------------
+[12:19:53]  Loading plugin: samp_bcrypt
+[12:19:53] [SampBcrypt] [info]: Version: 0.4.1
+[12:19:53]   Loaded.
+[12:19:53]  Loaded 1 plugins.
+
+[12:19:53] 
+[12:19:53] Filterscripts
+[12:19:53] ---------------
+[12:19:53]   Loaded 0 filterscripts.
+
+[12:19:53] |---------------------------------------------------|
+[12:19:53] |         Include g_sqlite por Galarc_Hale          |
+[12:19:53] |             carregada com sucesso                 |
+[12:19:53] |---------------------------------------------------|
+[12:19:53] 
+----------------------------------
+[12:19:53]  SPC GameMode SA-MP
+[12:19:53] ----------------------------------
+
+[12:19:53] Number of vehicle models: 0
+Console input: gmx
+[12:20:18] |---------------------------------------------------|
+[12:20:18] |           Include g_sqlite desligada              |
+[12:20:18] |---------------------------------------------------|
+[12:20:30] |---------------------------------------------------|
+[12:20:30] |         Include g_sqlite por Galarc_Hale          |
+[12:20:30] |             carregada com sucesso                 |
+[12:20:30] |---------------------------------------------------|
+[12:20:30] 
+----------------------------------
+[12:20:30]  SPC GameMode SA-MP
+[12:20:30] ----------------------------------
+
+[12:20:30] Number of vehicle models: 0
+[12:21:00] [connection] 127.0.0.1:49976 requests connection cookie.
+[12:21:01] [connection] 127.0.0.1:49976 requests connection cookie.
+[12:21:02] [connection] incoming connection: 127.0.0.1:49976 id: 0
+[12:21:02] [join] Anjo_ has joined the server (0:127.0.0.1)
+Console input: gmx
+[12:23:19] |---------------------------------------------------|
+[12:23:19] |           Include g_sqlite desligada              |
+[12:23:19] |---------------------------------------------------|
+[12:23:31] |---------------------------------------------------|
+[12:23:31] |         Include g_sqlite por Galarc_Hale          |
+[12:23:31] |             carregada com sucesso                 |
+[12:23:31] |---------------------------------------------------|
+[12:23:31] 
+----------------------------------
+[12:23:31]  SPC GameMode SA-MP
+[12:23:31] ----------------------------------
+
+[12:23:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:24:31] filterscripts = ""  (string)
+[12:24:31] 
+[12:24:31] Server Plugins
+[12:24:31] --------------
+[12:24:31]  Loading plugin: samp_bcrypt
+[12:24:31] [SampBcrypt] [info]: Version: 0.4.1
+[12:24:31]   Loaded.
+[12:24:31]  Loaded 1 plugins.
+
+[12:24:31] 
+[12:24:31] Filterscripts
+[12:24:31] ---------------
+[12:24:31]   Loaded 0 filterscripts.
+
+[12:24:31] |---------------------------------------------------|
+[12:24:31] |         Include g_sqlite por Galarc_Hale          |
+[12:24:31] |             carregada com sucesso                 |
+[12:24:31] |---------------------------------------------------|
+[12:24:31] 
+----------------------------------
+[12:24:31]  SPC GameMode SA-MP
+[12:24:31] ----------------------------------
+
+[12:24:31] Number of vehicle models: 0
+[12:24:40] [connection] 127.0.0.1:52916 requests connection cookie.
+[12:24:41] [connection] 127.0.0.1:52916 requests connection cookie.
+[12:24:54] [connection] 127.0.0.1:50830 requests connection cookie.
+[12:24:55] [connection] 127.0.0.1:50830 requests connection cookie.
+[12:24:56] [connection] incoming connection: 127.0.0.1:50830 id: 0
+[12:24:57] [join] Anjo_ has joined the server (0:127.0.0.1)
+Console input: gmx
+[12:27:44] |---------------------------------------------------|
+[12:27:44] |           Include g_sqlite desligada              |
+[12:27:44] |---------------------------------------------------|
+[12:27:56] |---------------------------------------------------|
+[12:27:56] |         Include g_sqlite por Galarc_Hale          |
+[12:27:56] |             carregada com sucesso                 |
+[12:27:56] |---------------------------------------------------|
+[12:27:56] 
+----------------------------------
+[12:27:56]  SPC GameMode SA-MP
+[12:27:56] ----------------------------------
+
+[12:27:56] Number of vehicle models: 0
+[12:28:11] [SampBcrypt] [error]: HashVerifyPassLogin => InvalidHash("0")
+[12:28:15] [part] Anjo_ has left the server (0:1)
+[12:28:35] [connection] 127.0.0.1:60556 requests connection cookie.
+[12:28:36] [connection] 127.0.0.1:60556 requests connection cookie.
+[12:28:37] [connection] incoming connection: 127.0.0.1:60556 id: 0
+[12:28:38] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:28:41] [SampBcrypt] [error]: HashVerifyPassLogin => InvalidHash("0")
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:30:44] filterscripts = ""  (string)
+[12:30:44] 
+[12:30:44] Server Plugins
+[12:30:44] --------------
+[12:30:44]  Loading plugin: samp_bcrypt
+[12:30:44] [SampBcrypt] [info]: Version: 0.4.1
+[12:30:44]   Loaded.
+[12:30:44]  Loaded 1 plugins.
+
+[12:30:44] 
+[12:30:44] Filterscripts
+[12:30:44] ---------------
+[12:30:44]   Loaded 0 filterscripts.
+
+[12:30:44] |---------------------------------------------------|
+[12:30:44] |         Include g_sqlite por Galarc_Hale          |
+[12:30:44] |             carregada com sucesso                 |
+[12:30:44] |---------------------------------------------------|
+[12:30:44] 
+----------------------------------
+[12:30:44]  SPC GameMode SA-MP
+[12:30:44] ----------------------------------
+
+[12:30:44] Number of vehicle models: 0
+[12:30:58] [connection] 127.0.0.1:52910 requests connection cookie.
+[12:30:59] [connection] 127.0.0.1:52910 requests connection cookie.
+[12:31:00] [connection] incoming connection: 127.0.0.1:52910 id: 0
+[12:31:00] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:32:54] [part] Anjo_ has left the server (0:1)
+[12:33:08] [connection] 127.0.0.1:61498 requests connection cookie.
+[12:33:09] [connection] 127.0.0.1:61498 requests connection cookie.
+[12:33:10] [connection] incoming connection: 127.0.0.1:61498 id: 0
+[12:33:10] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:33:19] [SampBcrypt] [error]: HashVerifyPassLogin => InvalidHash("")
+Console input: gmx
+[12:36:26] |---------------------------------------------------|
+[12:36:26] |           Include g_sqlite desligada              |
+[12:36:26] |---------------------------------------------------|
+[12:36:38] |---------------------------------------------------|
+[12:36:38] |         Include g_sqlite por Galarc_Hale          |
+[12:36:38] |             carregada com sucesso                 |
+[12:36:38] |---------------------------------------------------|
+[12:36:38] 
+----------------------------------
+[12:36:38]  SPC GameMode SA-MP
+[12:36:38] ----------------------------------
+
+[12:36:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:37:09] filterscripts = ""  (string)
+[12:37:09] 
+[12:37:09] Server Plugins
+[12:37:09] --------------
+[12:37:09]  Loading plugin: samp_bcrypt
+[12:37:09] [SampBcrypt] [info]: Version: 0.4.1
+[12:37:09]   Loaded.
+[12:37:09]  Loaded 1 plugins.
+
+[12:37:09] 
+[12:37:09] Filterscripts
+[12:37:09] ---------------
+[12:37:09]   Loaded 0 filterscripts.
+
+[12:37:09] |---------------------------------------------------|
+[12:37:09] |         Include g_sqlite por Galarc_Hale          |
+[12:37:09] |             carregada com sucesso                 |
+[12:37:09] |---------------------------------------------------|
+[12:37:09] 
+----------------------------------
+[12:37:09]  SPC GameMode SA-MP
+[12:37:09] ----------------------------------
+
+[12:37:09] Number of vehicle models: 0
+[12:37:20] [connection] 127.0.0.1:49844 requests connection cookie.
+[12:37:21] [connection] 127.0.0.1:49844 requests connection cookie.
+[12:37:22] [connection] incoming connection: 127.0.0.1:49844 id: 0
+[12:37:22] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:37:28] galarco
+[12:37:28]  a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:39:35] filterscripts = ""  (string)
+[12:39:35] 
+[12:39:35] Server Plugins
+[12:39:35] --------------
+[12:39:35]  Loading plugin: samp_bcrypt
+[12:39:35] [SampBcrypt] [info]: Version: 0.4.1
+[12:39:35]   Loaded.
+[12:39:35]  Loaded 1 plugins.
+
+[12:39:35] 
+[12:39:35] Filterscripts
+[12:39:35] ---------------
+[12:39:35]   Loaded 0 filterscripts.
+
+[12:39:35] |---------------------------------------------------|
+[12:39:35] |         Include g_sqlite por Galarc_Hale          |
+[12:39:35] |             carregada com sucesso                 |
+[12:39:35] |---------------------------------------------------|
+[12:39:35] 
+----------------------------------
+[12:39:35]  SPC GameMode SA-MP
+[12:39:35] ----------------------------------
+
+[12:39:35] Number of vehicle models: 0
+[12:39:47] [connection] 127.0.0.1:55191 requests connection cookie.
+[12:39:48] [connection] 127.0.0.1:55191 requests connection cookie.
+[12:39:49] [connection] incoming connection: 127.0.0.1:55191 id: 0
+[12:40:04] [connection] 127.0.0.1:53975 requests connection cookie.
+[12:40:05] [connection] 127.0.0.1:53975 requests connection cookie.
+[12:40:06] [connection] incoming connection: 127.0.0.1:53975 id: 0
+[12:40:17] [connection] 127.0.0.1:61685 requests connection cookie.
+[12:40:18] [connection] 127.0.0.1:61685 requests connection cookie.
+[12:40:19] [connection] incoming connection: 127.0.0.1:61685 id: 0
+[12:40:19] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:40:24] $2b$12$dyUIRozj/eabmh7Rd0k9LO2uAQ3gMGIsGv7U83QhSY9h4RCswp7wq a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:41:18] filterscripts = ""  (string)
+[12:41:18] 
+[12:41:18] Server Plugins
+[12:41:18] --------------
+[12:41:18]  Loading plugin: samp_bcrypt
+[12:41:18] [SampBcrypt] [info]: Version: 0.4.1
+[12:41:18]   Loaded.
+[12:41:18]  Loaded 1 plugins.
+
+[12:41:18] 
+[12:41:18] Filterscripts
+[12:41:18] ---------------
+[12:41:18]   Loaded 0 filterscripts.
+
+[12:41:18] |---------------------------------------------------|
+[12:41:18] |         Include g_sqlite por Galarc_Hale          |
+[12:41:18] |             carregada com sucesso                 |
+[12:41:18] |---------------------------------------------------|
+[12:41:18] 
+----------------------------------
+[12:41:18]  SPC GameMode SA-MP
+[12:41:18] ----------------------------------
+
+[12:41:18] Number of vehicle models: 0
+[12:41:21] [connection] 127.0.0.1:54351 requests connection cookie.
+[12:41:22] [connection] 127.0.0.1:54351 requests connection cookie.
+[12:41:23] [connection] incoming connection: 127.0.0.1:54351 id: 0
+[12:41:33] [connection] 127.0.0.1:56348 requests connection cookie.
+[12:41:34] [connection] 127.0.0.1:56348 requests connection cookie.
+[12:41:35] [connection] incoming connection: 127.0.0.1:56348 id: 0
+[12:41:45] [connection] 127.0.0.1:59103 requests connection cookie.
+[12:41:46] [connection] 127.0.0.1:59103 requests connection cookie.
+[12:41:47] [connection] incoming connection: 127.0.0.1:59103 id: 0
+[12:41:47] [join] Anjo_ has joined the server (0:127.0.0.1)
+[12:42:00] [part] Anjo_ has left the server (0:1)
+[12:42:14] [connection] 127.0.0.1:55229 requests connection cookie.
+[12:42:15] [connection] 127.0.0.1:55229 requests connection cookie.
+[12:42:16] [connection] incoming connection: 127.0.0.1:55229 id: 0
+[12:42:16] [join] Anjo_ has joined the server (0:127.0.0.1)
+Console input: gmx
+[12:43:11] |---------------------------------------------------|
+[12:43:11] |           Include g_sqlite desligada              |
+[12:43:11] |---------------------------------------------------|
+[12:43:23] |---------------------------------------------------|
+[12:43:23] |         Include g_sqlite por Galarc_Hale          |
+[12:43:23] |             carregada com sucesso                 |
+[12:43:23] |---------------------------------------------------|
+[12:43:23] 
+----------------------------------
+[12:43:23]  SPC GameMode SA-MP
+[12:43:23] ----------------------------------
+
+[12:43:23] Number of vehicle models: 0
+Console input: gmx
+[12:47:15] |---------------------------------------------------|
+[12:47:15] |           Include g_sqlite desligada              |
+[12:47:15] |---------------------------------------------------|
+[12:47:27] |---------------------------------------------------|
+[12:47:27] |         Include g_sqlite por Galarc_Hale          |
+[12:47:27] |             carregada com sucesso                 |
+[12:47:27] |---------------------------------------------------|
+[12:47:27] 
+----------------------------------
+[12:47:27]  SPC GameMode SA-MP
+[12:47:27] ----------------------------------
+
+[12:47:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:11:34] filterscripts = ""  (string)
+[13:11:34] 
+[13:11:34] Server Plugins
+[13:11:34] --------------
+[13:11:34]  Loading plugin: samp_bcrypt
+[13:11:34] [SampBcrypt] [info]: Version: 0.4.1
+[13:11:34]   Loaded.
+[13:11:34]  Loaded 1 plugins.
+
+[13:11:34] 
+[13:11:34] Filterscripts
+[13:11:34] ---------------
+[13:11:34]   Loaded 0 filterscripts.
+
+[13:11:34] Script[gamemodes/SPC.amx]: Run time error 19: "File or function is not found"
+[13:11:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:11:43] filterscripts = ""  (string)
+[13:11:43] 
+[13:11:43] Server Plugins
+[13:11:43] --------------
+[13:11:43]  Loading plugin: samp_bcrypt
+[13:11:43] [SampBcrypt] [info]: Version: 0.4.1
+[13:11:43]   Loaded.
+[13:11:43]  Loading plugin: sscanf
+[13:11:43] 
+[13:11:43]  ===============================
+[13:11:43] 
+[13:11:43]       sscanf plugin loaded.     
+[13:11:43] 
+[13:11:43]          Version: 2.13.8
+[13:11:43] 
+[13:11:43]    (c) 2022 Alex "Y_Less" Cole  
+[13:11:43] 
+[13:11:43]  ===============================
+[13:11:43] 
+[13:11:43]   Loaded.
+[13:11:43]  Loaded 2 plugins.
+
+[13:11:43] 
+[13:11:43] Filterscripts
+[13:11:43] ---------------
+[13:11:43]   Loaded 0 filterscripts.
+
+[13:11:43] |---------------------------------------------------|
+[13:11:43] |         Include g_sqlite por Galarc_Hale          |
+[13:11:43] |             carregada com sucesso                 |
+[13:11:43] |---------------------------------------------------|
+[13:11:43] 
+----------------------------------
+[13:11:43]  SPC GameMode SA-MP
+[13:11:43] ----------------------------------
+
+[13:11:43] Number of vehicle models: 0
+[13:11:45] [connection] 127.0.0.1:56084 requests connection cookie.
+[13:11:46] [connection] 127.0.0.1:56084 requests connection cookie.
+[13:11:47] [connection] incoming connection: 127.0.0.1:56084 id: 0
+[13:11:57] [connection] 127.0.0.1:50508 requests connection cookie.
+[13:11:58] [connection] 127.0.0.1:50508 requests connection cookie.
+[13:11:59] [connection] incoming connection: 127.0.0.1:50508 id: 0
+[13:12:09] [connection] 127.0.0.1:49186 requests connection cookie.
+[13:12:10] [connection] 127.0.0.1:49186 requests connection cookie.
+[13:12:11] [connection] incoming connection: 127.0.0.1:49186 id: 0
+[13:12:21] [connection] 127.0.0.1:56504 requests connection cookie.
+[13:12:22] [connection] 127.0.0.1:56504 requests connection cookie.
+[13:12:23] [connection] incoming connection: 127.0.0.1:56504 id: 0
+[13:12:24] [join] Anjo_ has joined the server (0:127.0.0.1)
+[13:13:57] Coluna adminnivel nao criada! erro no GSQL_GetInt
+Console input: gmx
+[13:31:49] |---------------------------------------------------|
+[13:31:49] |           Include g_sqlite desligada              |
+[13:31:49] |---------------------------------------------------|
+[13:32:01] |---------------------------------------------------|
+[13:32:01] |         Include g_sqlite por Galarc_Hale          |
+[13:32:01] |             carregada com sucesso                 |
+[13:32:01] |---------------------------------------------------|
+[13:32:01] 
+----------------------------------
+[13:32:01]  SPC GameMode SA-MP
+[13:32:01] ----------------------------------
+
+[13:32:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:34:57] filterscripts = ""  (string)
+[13:34:57] 
+[13:34:57] Server Plugins
+[13:34:57] --------------
+[13:34:57]  Loading plugin: samp_bcrypt
+[13:34:57] [SampBcrypt] [info]: Version: 0.4.1
+[13:34:57]   Loaded.
+[13:34:57]  Loading plugin: sscanf
+[13:34:57] 
+[13:34:57]  ===============================
+[13:34:57] 
+[13:34:57]       sscanf plugin loaded.     
+[13:34:57] 
+[13:34:57]          Version: 2.13.8
+[13:34:57] 
+[13:34:57]    (c) 2022 Alex "Y_Less" Cole  
+[13:34:57] 
+[13:34:57]  ===============================
+[13:34:57] 
+[13:34:57]   Loaded.
+[13:34:57]  Loaded 2 plugins.
+
+[13:34:57] 
+[13:34:57] Filterscripts
+[13:34:57] ---------------
+[13:34:57]   Loaded 0 filterscripts.
+
+[13:34:57] |---------------------------------------------------|
+[13:34:57] |         Include g_sqlite por Galarc_Hale          |
+[13:34:57] |             carregada com sucesso                 |
+[13:34:57] |---------------------------------------------------|
+[13:34:57] 
+----------------------------------
+[13:34:57]  SPC GameMode SA-MP
+[13:34:57] ----------------------------------
+
+[13:34:57] Number of vehicle models: 0
+[13:34:58] [connection] 127.0.0.1:62832 requests connection cookie.
+[13:34:59] [connection] incoming connection: 127.0.0.1:62832 id: 0
+[13:34:59] [join] Anjo_ has joined the server (0:127.0.0.1)
+Console input: gmx
+[13:38:31] |---------------------------------------------------|
+[13:38:31] |           Include g_sqlite desligada              |
+[13:38:31] |---------------------------------------------------|
+[13:38:43] |---------------------------------------------------|
+[13:38:43] |         Include g_sqlite por Galarc_Hale          |
+[13:38:43] |             carregada com sucesso                 |
+[13:38:43] |---------------------------------------------------|
+[13:38:43] 
+----------------------------------
+[13:38:43]  SPC GameMode SA-MP
+[13:38:43] ----------------------------------
+
+[13:38:43] Number of vehicle models: 0
+Console input: gmx
+[13:45:58] |---------------------------------------------------|
+[13:45:58] |           Include g_sqlite desligada              |
+[13:45:58] |---------------------------------------------------|
+[13:46:10] |---------------------------------------------------|
+[13:46:10] |         Include g_sqlite por Galarc_Hale          |
+[13:46:10] |             carregada com sucesso                 |
+[13:46:10] |---------------------------------------------------|
+[13:46:10] 
+----------------------------------
+[13:46:10]  SPC GameMode SA-MP
+[13:46:10] ----------------------------------
+
+[13:46:10] Number of vehicle models: 0
+Console input: gmx
+[13:49:19] |---------------------------------------------------|
+[13:49:19] |           Include g_sqlite desligada              |
+[13:49:19] |---------------------------------------------------|
+[13:49:31] |---------------------------------------------------|
+[13:49:31] |         Include g_sqlite por Galarc_Hale          |
+[13:49:31] |             carregada com sucesso                 |
+[13:49:31] |---------------------------------------------------|
+[13:49:31] 
+----------------------------------
+[13:49:31]  SPC GameMode SA-MP
+[13:49:31] ----------------------------------
+
+[13:49:31] Number of vehicle models: 0
+Console input: gmx
+[13:51:49] |---------------------------------------------------|
+[13:51:49] |           Include g_sqlite desligada              |
+[13:51:49] |---------------------------------------------------|
+[13:52:01] |---------------------------------------------------|
+[13:52:01] |         Include g_sqlite por Galarc_Hale          |
+[13:52:01] |             carregada com sucesso                 |
+[13:52:01] |---------------------------------------------------|
+[13:52:01] 
+----------------------------------
+[13:52:01]  SPC GameMode SA-MP
+[13:52:01] ----------------------------------
+
+[13:52:01] Number of vehicle models: 0
+[13:54:38] [part] Anjo_ has left the server (0:1)
